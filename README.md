@@ -17,6 +17,7 @@ The API exposes an endpoint that accepts text and a shift value, then returns th
 - Unit tests for core logic
 
 ## Project structure
+```
 text-transform-api/
 ├── app/
 │ ├── init.py
@@ -26,6 +27,7 @@ text-transform-api/
 │ └── test_caesar.py # Unit tests
 ├── requirements.txt
 └── README.md
+```
 
 ## How to run
 
